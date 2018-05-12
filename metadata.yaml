@@ -10,6 +10,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14366#Argentina-from-a-British-Point-of-View--13-And-Notes-on-Argentine-Life
 gutenberg_bookshelf: Argentina
 gutenberg_issued: '2004-12-16'
 gutenberg_type: Text
